@@ -6,7 +6,7 @@ public class Main {
        client.setMetier(new proxy());
        double res=client.getMetier().doOperation(7,8);
        System.out.println(res);
-        double res1=client.getMetier().doOperation(7,8);
+       double res1=client.getMetier().doOperation(7,8);
         System.out.println(res1);
     }
 }
