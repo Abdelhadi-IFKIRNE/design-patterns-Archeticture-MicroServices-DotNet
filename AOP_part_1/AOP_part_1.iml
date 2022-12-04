@@ -5,7 +5,7 @@
       <configuration>
         <option name="aspectPath">
           <projectLibrary>
-            <option name="name" value="Maven: org.aspectj:aspectjrt:1.9.9.1" />
+            <option name="name" value="Maven: org.aspectj:aspectjrt:1.9.6" />
           </projectLibrary>
         </option>
       </configuration>
