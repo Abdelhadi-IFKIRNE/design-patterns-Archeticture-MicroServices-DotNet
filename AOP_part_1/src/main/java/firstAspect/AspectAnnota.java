@@ -6,7 +6,7 @@ import org.aspectj.lang.annotation.*;
 @Aspect
 public class AspectAnnota {
 
-    @Pointcut("execution(* test.*.main(..))")
+    @Pointcut("execution(* test.*.mai(..))")
     public void pc1(){}
 
 //    @Before("pc1()")

@@ -1,7 +1,7 @@
 package firstAspect;
 
 public aspect aspectMain {
-    pointcut pc1(): execution(* test.Application.main(..));
+    pointcut pc1(): execution(* test.Application.mai(..));
 
 //    before():pc1(){
 //        System.out.println("*********************************************");

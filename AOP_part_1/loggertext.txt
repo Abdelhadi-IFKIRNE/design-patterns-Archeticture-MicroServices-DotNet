@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-06T14:18:11.098053200Z</date>
+  <millis>1670336291098</millis>
+  <nanos>53200</nanos>
+  <sequence>0</sequence>
+  <logger>firstAspect.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierImpl</class>
+  <method>addAccount_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>-------------------- avant l'execution -----------------------</message>
+</record>
+<record>
+  <date>2022-12-06T14:18:11.105052400Z</date>
+  <millis>1670336291105</millis>
+  <nanos>52400</nanos>
+  <sequence>1</sequence>
+  <logger>firstAspect.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierImpl</class>
+  <method>addAccount_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>addAccount</message>
+</record>
+<record>
+  <date>2022-12-06T14:18:11.106322900Z</date>
+  <millis>1670336291106</millis>
+  <nanos>322900</nanos>
+  <sequence>2</sequence>
+  <logger>firstAspect.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierImpl</class>
+  <method>addAccount_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>-------------------- apres l'execution ------------------------</message>
+</record>
+<record>
+  <date>2022-12-06T14:18:11.106322900Z</date>
+  <millis>1670336291106</millis>
+  <nanos>322900</nanos>
+  <sequence>3</sequence>
+  <logger>firstAspect.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierImpl</class>
+  <method>addAccount_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>addAccount</message>
+</record>
+<record>
+  <date>2022-12-06T14:18:11.106322900Z</date>
+  <millis>1670336291106</millis>
+  <nanos>322900</nanos>
+  <sequence>4</sequence>
+  <logger>firstAspect.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierImpl</class>
+  <method>addAccount_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>temps d'execution de la methode est :9</message>
+</record>
+</log>
