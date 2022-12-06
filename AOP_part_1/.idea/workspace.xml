@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f41500d8-0544-462f-af19-969c75c3b276" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOP_Activities.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loggertext.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/firstAspect/AspectAnnota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/firstAspect/LoggingAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/firstAspect/SecurutyAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/firstAspect/aspectMain.aj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/firstAspect/patchAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/metier/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/metier/IMetier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/metier/MetierImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/firstAspect/AspectAnnota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/firstAspect/LoggingAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/firstAspect/aspectMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/firstAspect/patchAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/metier/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/metier/IMetier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/metier/MetierImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Activite_Examen_blanc_v2/Activite_Examen_blanc_v2" beforeDir="false" afterPath="$PROJECT_DIR$/../Activite_Examen_blanc_v2/Activite_Examen_blanc_v2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Aspect" />
+        <option value="@Aspect" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ISjQWZ92yQJPrXZJK3Ep0X8O4y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "aspect.path.notification.shown": "true",
+    "last_opened_file_path": "D:/design-patterns-Archeticture-MicroServices-DotNet/AOP_activities",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="metier" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.test.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.test.Application" />
+      <module name="AOP_Activities" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="AOP_Activities" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.firstAspect.test.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.firstAspect.test.Application" />
+      <module name="AOP_Activities" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.firstAspect.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Application" />
+      <module name="AOP_Activities" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="AOP_Activities" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="AOP_Activities" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test.Application" />
+        <item itemvalue="Application.org.example.firstAspect.test.Application" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f41500d8-0544-462f-af19-969c75c3b276" name="Changes" comment="" />
+      <created>1670181865453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670181865453</updated>
+      <workItem from="1670181867586" duration="2493000" />
+      <workItem from="1670184726280" duration="4768000" />
+      <workItem from="1670322634940" duration="6661000" />
+    </task>
+    <task id="LOCAL-00001" summary="AOP_1">
+      <created>1670184287349</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670184287349</updated>
+    </task>
+    <task id="LOCAL-00002" summary="AOP_1">
+      <created>1670193750229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670193750229</updated>
+    </task>
+    <task id="LOCAL-00003" summary="AOP_Activities">
+      <created>1670336411419</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670336411419</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AOP_1" />
+    <MESSAGE value="AOP_Activities" />
+    <option name="LAST_COMMIT_MESSAGE" value="AOP_Activities" />
+  </component>
+</project>
