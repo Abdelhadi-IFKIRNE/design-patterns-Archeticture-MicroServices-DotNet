@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-08T00:20:47</date>
+  <millis>1670458847449</millis>
+  <sequence>0</sequence>
+  <logger>org.example.Aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>org.example.Aspects.LoggingAspect</class>
+  <method>controlIMetierImpl</method>
+  <thread>1</thread>
+  <message>avant l'execution de la methode ....</message>
+</record>
+<record>
+  <date>2022-12-08T00:20:47</date>
+  <millis>1670458847470</millis>
+  <sequence>1</sequence>
+  <logger>org.example.Aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>org.example.Aspects.LoggingAspect</class>
+  <method>controlIMetierImpl</method>
+  <thread>1</thread>
+  <message>apres l'execution de la methode ....</message>
+</record>
+<record>
+  <date>2022-12-08T00:20:47</date>
+  <millis>1670458847473</millis>
+  <sequence>2</sequence>
+  <logger>org.example.Aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>org.example.Aspects.LoggingAspect</class>
+  <method>controlIMetierImpl</method>
+  <thread>1</thread>
+  <message>Duration : 22.0</message>
+</record>
+</log>
