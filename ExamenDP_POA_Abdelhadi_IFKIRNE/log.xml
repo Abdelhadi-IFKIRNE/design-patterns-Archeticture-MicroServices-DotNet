@@ -2,8 +2,8 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2022-12-23T10:48:19</date>
-  <millis>1671792499923</millis>
+  <date>2022-12-23T11:19:48</date>
+  <millis>1671794388262</millis>
   <sequence>0</sequence>
   <logger>org.example.aspects.Journalisation</logger>
   <level>INFO</level>
@@ -13,8 +13,8 @@
   <message>avant l'execution ........</message>
 </record>
 <record>
-  <date>2022-12-23T10:48:19</date>
-  <millis>1671792499959</millis>
+  <date>2022-12-23T11:19:48</date>
+  <millis>1671794388298</millis>
   <sequence>1</sequence>
   <logger>org.example.aspects.Journalisation</logger>
   <level>INFO</level>
@@ -24,8 +24,8 @@
   <message>apres l'execution .......</message>
 </record>
 <record>
-  <date>2022-12-23T10:48:19</date>
-  <millis>1671792499976</millis>
+  <date>2022-12-23T11:19:48</date>
+  <millis>1671794388314</millis>
   <sequence>2</sequence>
   <logger>org.example.aspects.Journalisation</logger>
   <level>INFO</level>
@@ -35,8 +35,8 @@
   <message>avant l'execution ........</message>
 </record>
 <record>
-  <date>2022-12-23T10:48:19</date>
-  <millis>1671792499977</millis>
+  <date>2022-12-23T11:19:48</date>
+  <millis>1671794388315</millis>
   <sequence>3</sequence>
   <logger>org.example.aspects.Journalisation</logger>
   <level>INFO</level>

@@ -4,7 +4,9 @@ public class Association extends Relation {
     private Classe source;
     private Entite distination;
 
-    public Association() {
+    public Association(Classe source,Entite distination) {
+        this.source=source;
+        this.distination=distination;
     }
 
     public Classe getSource() {

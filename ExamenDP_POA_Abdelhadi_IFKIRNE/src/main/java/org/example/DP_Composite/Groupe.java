@@ -7,4 +7,8 @@ import java.util.List;
 
 public class Groupe extends Classe {
     private List<Classe> classes=new ArrayList<>();
+
+    public Groupe(String nom) {
+        super(nom);
+    }
 }
