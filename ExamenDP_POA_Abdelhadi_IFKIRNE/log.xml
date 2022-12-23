@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-23T10:48:19</date>
+  <millis>1671792499923</millis>
+  <sequence>0</sequence>
+  <logger>org.example.aspects.Journalisation</logger>
+  <level>INFO</level>
+  <class>org.example.DP_Strategy.S_JAVA</class>
+  <method>genererCode_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>avant l'execution ........</message>
+</record>
+<record>
+  <date>2022-12-23T10:48:19</date>
+  <millis>1671792499959</millis>
+  <sequence>1</sequence>
+  <logger>org.example.aspects.Journalisation</logger>
+  <level>INFO</level>
+  <class>org.example.DP_Strategy.S_JAVA</class>
+  <method>genererCode_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>apres l'execution .......</message>
+</record>
+<record>
+  <date>2022-12-23T10:48:19</date>
+  <millis>1671792499976</millis>
+  <sequence>2</sequence>
+  <logger>org.example.aspects.Journalisation</logger>
+  <level>INFO</level>
+  <class>org.example.DP_Adapter.IadapterGenerateCodeImpl</class>
+  <method>generateCode_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>avant l'execution ........</message>
+</record>
+<record>
+  <date>2022-12-23T10:48:19</date>
+  <millis>1671792499977</millis>
+  <sequence>3</sequence>
+  <logger>org.example.aspects.Journalisation</logger>
+  <level>INFO</level>
+  <class>org.example.DP_Adapter.IadapterGenerateCodeImpl</class>
+  <method>generateCode_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>apres l'execution .......</message>
+</record>
+</log>

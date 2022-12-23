@@ -2,8 +2,8 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2022-12-08T00:20:47</date>
-  <millis>1670458847449</millis>
+  <date>2022-12-09T17:27:08</date>
+  <millis>1670606828200</millis>
   <sequence>0</sequence>
   <logger>org.example.Aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -13,8 +13,8 @@
   <message>avant l'execution de la methode ....</message>
 </record>
 <record>
-  <date>2022-12-08T00:20:47</date>
-  <millis>1670458847470</millis>
+  <date>2022-12-09T17:27:08</date>
+  <millis>1670606828229</millis>
   <sequence>1</sequence>
   <logger>org.example.Aspects.LoggingAspect</logger>
   <level>INFO</level>
@@ -24,14 +24,14 @@
   <message>apres l'execution de la methode ....</message>
 </record>
 <record>
-  <date>2022-12-08T00:20:47</date>
-  <millis>1670458847473</millis>
+  <date>2022-12-09T17:27:08</date>
+  <millis>1670606828231</millis>
   <sequence>2</sequence>
   <logger>org.example.Aspects.LoggingAspect</logger>
   <level>INFO</level>
   <class>org.example.Aspects.LoggingAspect</class>
   <method>controlIMetierImpl</method>
   <thread>1</thread>
-  <message>Duration : 22.0</message>
+  <message>Duration : 29.0</message>
 </record>
 </log>
